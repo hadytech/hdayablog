@@ -1,0 +1,2 @@
+# hdayablog
+hdaya.uz
